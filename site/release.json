@@ -1,0 +1,237 @@
+{
+  "release": "mana-hunt-copy-v5",
+  "runtime_sha256": "39eb2de05642ef9c0f43301b3a351de8163d0a0f0e8a3078846cce2a05e6e2cc",
+  "name": "High Leverage Studios",
+  "necrosphere_name": "Necrosphere64",
+  "lucid_platform": "Phone + desktop web",
+  "lucid_release_evidence": "Public Lucid Range Site v5",
+  "poke_release_evidence": "Public PokeTaskbar Site v4",
+  "approval": "authorized direct non-Templ update",
+  "files": [
+    {
+      "path": "assets/favicon.png",
+      "sha256": "e7bf554aea4fb3659759e9e3941f2be6a279e121116d36d1d5cdd5182c9ded40",
+      "bytes": 398
+    },
+    {
+      "path": "assets/fonts/Figtree-OFL.txt",
+      "sha256": "140d37233e7f3ce7313798befa9600893bcceaf41a55fa0fa5ad52f7f657a268",
+      "bytes": 4388
+    },
+    {
+      "path": "assets/fonts/Figtree.woff2",
+      "sha256": "8330490a01c60c196eae00b823de8102275aaa5862e7b76a7af21b8745338928",
+      "bytes": 20184
+    },
+    {
+      "path": "assets/game-icons/bramble-small.webp",
+      "sha256": "1a126db0fab0dd62efd71e46e6a731b3fc4a00b9bd634e22e77350f2f50ab783",
+      "bytes": 15878
+    },
+    {
+      "path": "assets/game-icons/bramble.webp",
+      "sha256": "84973c64b64c9c9c7066896a996b9422c524fdc5ce338a725c1d3848afd876a4",
+      "bytes": 46374
+    },
+    {
+      "path": "assets/game-icons/infinite-bosses-small.webp",
+      "sha256": "f43206f5b172625765c651304a803a1bd2f77d7d01c9ad45fafa91f89c6895de",
+      "bytes": 13620
+    },
+    {
+      "path": "assets/game-icons/infinite-bosses.webp",
+      "sha256": "d336cce0aeaa2bc946e4b1f3a3faf72f3a9211c27e55e2b86d78c721f9ca3743",
+      "bytes": 42022
+    },
+    {
+      "path": "assets/game-icons/it-works-because-small.webp",
+      "sha256": "73a611a00315d4f02d088d0fc8a42ac1df43285cec5c7d4a674d23b7b5fb8b43",
+      "bytes": 15086
+    },
+    {
+      "path": "assets/game-icons/it-works-because.webp",
+      "sha256": "635a9a33de9d6814cfaa40196da3b52e1aac306be17e8b910570195ae4ecd0cf",
+      "bytes": 45400
+    },
+    {
+      "path": "assets/game-icons/lucid-range-small.webp",
+      "sha256": "9a7a58d465b29fdc441321c0096f9001b1a0fb1e429dc69b9cc323c783a41ddd",
+      "bytes": 15794
+    },
+    {
+      "path": "assets/game-icons/lucid-range.webp",
+      "sha256": "e8af13cd622c2827a388b71426b0cedfaa12128f829cbdb7ee347721b81611a7",
+      "bytes": 45864
+    },
+    {
+      "path": "assets/game-icons/mana-panic-small.webp",
+      "sha256": "c0e3044c5241a7714b51d88611b0105c9848bb178509ba391927e8955b47d3a0",
+      "bytes": 17604
+    },
+    {
+      "path": "assets/game-icons/mana-panic.webp",
+      "sha256": "648380a35fc365f747ad6be51b9919f1485d96a118d7e5ed8b04cf6a0941f4d3",
+      "bytes": 54158
+    },
+    {
+      "path": "assets/game-icons/necrosphere64-small.webp",
+      "sha256": "4069a175e17a6314b39a67609d1c3c7da887c8e922a8b8a02239a03eb04edd07",
+      "bytes": 16514
+    },
+    {
+      "path": "assets/game-icons/necrosphere64.webp",
+      "sha256": "06b5f68920d62b6c40396b72215242074d3b17c4025e46058cfa08a080b461cc",
+      "bytes": 47656
+    },
+    {
+      "path": "assets/game-icons/poketaskbar-small.webp",
+      "sha256": "e60885f5ac253757ba50a7fd99b4cf0ad36cdacb5e49ca0f6b80dce5a576ceea",
+      "bytes": 14606
+    },
+    {
+      "path": "assets/game-icons/poketaskbar.webp",
+      "sha256": "29d6dc38acf8fb6538bd108ab5b537e08e9e4aa453f0118567b24807d9cbaa81",
+      "bytes": 41534
+    },
+    {
+      "path": "assets/logo-compact.png",
+      "sha256": "ca1b85546fea3f358b2d284cfc337e45a8887426ec2c818719fe0b8d758e256a",
+      "bytes": 24809
+    },
+    {
+      "path": "assets/logo.png",
+      "sha256": "e86e1afb9ce37a899fbac450014737d5c1e55a8b8231ccc61b36a23da1fc63f6",
+      "bytes": 84992
+    },
+    {
+      "path": "assets/paper-grain.svg",
+      "sha256": "f6744da9c6c4bdc5dbd789b021d53485baf2491f07dbf4b1205e46df0cb2e3f7",
+      "bytes": 508
+    },
+    {
+      "path": "assets/screenshots/bramble-320.webp",
+      "sha256": "84ed5211c6a920008d0164aece8c40f4691ec6e812af422b623774ad240641fb",
+      "bytes": 14780
+    },
+    {
+      "path": "assets/screenshots/bramble-480.webp",
+      "sha256": "59c53e426437d041f8f4a8da38b15011ad15f6cd1c2d8205132f4b6480e9d624",
+      "bytes": 27064
+    },
+    {
+      "path": "assets/screenshots/bramble-720.webp",
+      "sha256": "d154553f374d04245b87d5bd01668c0a5c1c90ba6bfc0470337ca664c919469d",
+      "bytes": 47080
+    },
+    {
+      "path": "assets/screenshots/bramble.webp",
+      "sha256": "d154553f374d04245b87d5bd01668c0a5c1c90ba6bfc0470337ca664c919469d",
+      "bytes": 47080
+    },
+    {
+      "path": "assets/screenshots/infinite-bosses-320.webp",
+      "sha256": "559140bc9a23da4aa3a36b793b82d23dcee3fc08173f1eed8460e770ea48e0b9",
+      "bytes": 10782
+    },
+    {
+      "path": "assets/screenshots/infinite-bosses-480.webp",
+      "sha256": "aebe7e68c0be9f1c25c9b7868b68448380ac9d5c60f2a162c4de748737ec983e",
+      "bytes": 21656
+    },
+    {
+      "path": "assets/screenshots/infinite-bosses-720.webp",
+      "sha256": "a40380c8139d75f430b5039cbe3ef1beccb0f69e6d4c514916a4c5ee3529e4a5",
+      "bytes": 42664
+    },
+    {
+      "path": "assets/screenshots/infinite-bosses.webp",
+      "sha256": "a40380c8139d75f430b5039cbe3ef1beccb0f69e6d4c514916a4c5ee3529e4a5",
+      "bytes": 42664
+    },
+    {
+      "path": "assets/screenshots/it-works-because.webp",
+      "sha256": "5c4c2d0ee500ce991b0c54f073cbcf3d17fc39a76998ede4d21cd6d95ae82811",
+      "bytes": 19486
+    },
+    {
+      "path": "assets/screenshots/lucid-range-320.webp",
+      "sha256": "a3a5e2a59de8ae46b2883f4945dea1f5fe6382f0d4b3158c51d89d6cb794118e",
+      "bytes": 11624
+    },
+    {
+      "path": "assets/screenshots/lucid-range-480.webp",
+      "sha256": "e9865993272f9550cdee403def7655f8d7ee29d38328c0398ec85f521d6e77de",
+      "bytes": 20840
+    },
+    {
+      "path": "assets/screenshots/lucid-range-720.webp",
+      "sha256": "89c206c74534402905ed550aff1e4b1e83cfd46b071e2d70fc8590bb44eaf667",
+      "bytes": 36604
+    },
+    {
+      "path": "assets/screenshots/lucid-range.webp",
+      "sha256": "89c206c74534402905ed550aff1e4b1e83cfd46b071e2d70fc8590bb44eaf667",
+      "bytes": 36604
+    },
+    {
+      "path": "assets/screenshots/mana-panic-320.webp",
+      "sha256": "eebe9e777720490d6580e7419d727f54aa6fc454b808b3365c043802e6086237",
+      "bytes": 10884
+    },
+    {
+      "path": "assets/screenshots/mana-panic-480.webp",
+      "sha256": "18a60dd82af65f65c63f29138b2b4171eef2b3afac0a546ca616998d99ec3ce6",
+      "bytes": 30586
+    },
+    {
+      "path": "assets/screenshots/mana-panic-720.webp",
+      "sha256": "f17cd152ef0152dc68e29d4e64d7f91a84dc4ff1756c7bd3f66e5c5efe242959",
+      "bytes": 82524
+    },
+    {
+      "path": "assets/screenshots/mana-panic.webp",
+      "sha256": "f17cd152ef0152dc68e29d4e64d7f91a84dc4ff1756c7bd3f66e5c5efe242959",
+      "bytes": 82524
+    },
+    {
+      "path": "assets/screenshots/necrosphere64-320.webp",
+      "sha256": "10b135029f91f712fa075eee392aaa1e6a21809ffce9c38c1cc5a9b9a96495a1",
+      "bytes": 4312
+    },
+    {
+      "path": "assets/screenshots/necrosphere64-480.webp",
+      "sha256": "0f73f42817fed89d42c02ee085052d8262f1483bb4a4daa50fe2b6aae1f0a4be",
+      "bytes": 7234
+    },
+    {
+      "path": "assets/screenshots/necrosphere64-720.webp",
+      "sha256": "39aac1d145a04550fd829e03b926ac9daead4249c04a220b1488b0fae10a37d2",
+      "bytes": 11724
+    },
+    {
+      "path": "assets/screenshots/necrosphere64.webp",
+      "sha256": "39aac1d145a04550fd829e03b926ac9daead4249c04a220b1488b0fae10a37d2",
+      "bytes": 11724
+    },
+    {
+      "path": "assets/screenshots/poketaskbar-320.webp",
+      "sha256": "47118e8a82cb82ee2352df1cee29d59f68cbd2f510efe4389479d829985152bd",
+      "bytes": 5448
+    },
+    {
+      "path": "assets/screenshots/poketaskbar.webp",
+      "sha256": "416301d52ddb6b1f24a30a43a665ed49b17c442812badeec8d2e16402f04cb8c",
+      "bytes": 7674
+    },
+    {
+      "path": "index.html",
+      "sha256": "cec2d8fc76e9071802b6258eaf018e17f41816439631ee4d6ddc7681f516566d",
+      "bytes": 8922
+    },
+    {
+      "path": "style.css",
+      "sha256": "4bd0b1a0738d4681271cbaefa3f2f861291fe4fd0ae8de5ec7750bab64686d7a",
+      "bytes": 6069
+    }
+  ]
+}
